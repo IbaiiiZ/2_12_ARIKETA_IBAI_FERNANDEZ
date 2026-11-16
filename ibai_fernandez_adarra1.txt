@@ -1,2 +1,6 @@
 Lehenengo lerroa 1 fitxategian
+<<<<<<< HEAD
 Lerro berria main adarretik gehituta
+=======
+Aldaketa berriak adarreko fitxategian
+>>>>>>> ibai_fernandez_adarra
